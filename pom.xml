@@ -10,6 +10,7 @@
     </parent>
     <modules>
         <module>service-provide</module>
+        <module>service-provide2</module>
         <module>service-consumer</module>
         <module>commons</module>
         <module>EurekaServer-7001</module>

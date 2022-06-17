@@ -19,7 +19,7 @@ public class consumercontroller {
     @Resource
     private RestTemplate restTemplate;
 
-    private  static  final String PAYMENT_KEY="http://localhost:8000/provide/";
+    private  static  final String PAYMENT_KEY="http://service-provide/provide/";
 
     @RequestMapping("/getinfo")
     @ResponseBody
